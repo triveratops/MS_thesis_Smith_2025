@@ -6,7 +6,7 @@ Explanation of Files:
 
 **Geochemistry of the Black Mtn. Gravity Slide** -> file contains all of the major oxide geochemistry in weight percent. Analyses performed using XRF.
 - [Major Element Geochemistry](major_elements.csv)
-- [Minor and Trace Geochemistry](minor_elements.csv)
+- [Minor and Trace Geochemistry](trace_elements.csv)
 
 **trace_elements.csv** -> File contains all of the minor and trace element geochemistry in ppm. Analyses performed using LA-ICP-MS.
 
