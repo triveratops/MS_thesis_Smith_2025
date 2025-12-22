@@ -14,3 +14,4 @@ Explanation of Files:
 - On import to excel, 7/35 or 6/38 column ID may auto-format to a date. 
 
 **Pseudotachylyte Geochemistry** -> Files contain the results of various geochemical methods (written in the file name) performed on the glass or plagioclase portion of pseudotachylyte specimens from this research. 
+- [PST Geochemistry](/pst)
