@@ -9,3 +9,5 @@ Explanation of Files:
 **trace_elements.csv** -> File contains all of the minor and trace element geochemistry in ppm. Analyses performed using LA-ICP-MS.
 
 **BGS_####_geochron.csv** -> Files contain the results of LA-ICP-MS spot analyses on Zircons. The data are abundances of U and Pb and Th isotopes, their ratios, and the best age calculated from these isotopes. The `csv` also contains information such as concordance and rejected analyses which may be found at the bottom of the table. For future usage of these data, it is recommended to separate the rejected analyses before manipulating the dataset. 
+- The 'Type' column indicates either detrital or igneous zircons
+- On import to excel, 7/35 or 6/38 column ID may auto-format to a date. 
