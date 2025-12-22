@@ -13,4 +13,4 @@ Explanation of Files:
 - The 'Type' column indicates either detrital or igneous zircons
 - On import to excel, 7/35 or 6/38 column ID may auto-format to a date. 
 
-**PST_####_geochem.csv** -> Files contain the results of various geochemical methods (written in the file name) performed on the glass or plagioclase portion of pseudotachylyte specimens from this research. 
+**Pseudotachylyte Geochemistry** -> Files contain the results of various geochemical methods (written in the file name) performed on the glass or plagioclase portion of pseudotachylyte specimens from this research. 
