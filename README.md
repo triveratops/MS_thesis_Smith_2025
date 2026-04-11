@@ -1,4 +1,4 @@
-# MS_thesis_Smith_2025
+# MS_thesis_Smith_2026
 Data files associated with the MS thesis of Alexander Smith, Mizzou, 2026.
 
 Explanation of Files:
