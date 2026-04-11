@@ -1,0 +1,2 @@
+**Using This Directory**
+This directory houses the R notebook files for various calculations in this thesis. There are useful in-line notes within each document. Be sure to note the packages needed to operate each notebook. Usually, I collect all of the packages in the first code block under setup.
